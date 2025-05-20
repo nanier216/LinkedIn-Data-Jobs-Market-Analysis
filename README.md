@@ -4,7 +4,6 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/streamlit-v1.20-orange)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/linkedin-data-jobs-analysis/python-app.yml?branch=main)](https://github.com/your-username/linkedin-data-jobs-analysis/actions)
 
 This Streamlit app analyzes LinkedIn job postings for data-related roles (Data Scientist, Data Analyst, Data Engineer, etc.). It helps uncover trends such as in-demand skills, common job titles, seniority levels, and work type distributions.
 
